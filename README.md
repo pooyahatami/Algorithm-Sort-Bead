@@ -7,18 +7,18 @@ Also known as Gravity sort, this algorithm was inspired from natural phenomenons
 **The Idea:** Positive numbers are represented by a set of beads like those on an abacus.
 
 ```javascript
- * Radix sort algorithm !
+ * Bead sort algorithm !
  * Class	Sorting algorithm
  * Data structure	Array
- * Worst-case performance	О(n*k) comparisons, swaps
- * Best-case performance	O(n*k) comparisons, O(1) swaps
- * Average performance	О(n*k) comparisons, swaps
+ * Worst-case performance	О(s) comparisons, S is the sum of the input integers
+ * Best-case performance	O(1) comparisons, O(1) swaps
+ * Average performance	О(n) comparisons, swaps
  * Worst-case space complexity
- *   where k is the length of the longest number and n is the
- *   size of the input array.
- *   Note: if k is greater than log(n) then an n*log(n) algorithm would be a
- *         better fit. In reality we can always change the radix to make k
- *         less than log(n).
+ *   where n is the size of the input array.
+ *   ans S S is the sum of the input integers.
+ *   Note: The algorithm’s run–time complexity ranges from O(1) to O(S) (S is
+ *         the sum of the input integers) depending on the user’s perspective.
+ *        Finally, three possible implementations are suggested.
  *
  * Author: Pooya Hatami
  ```

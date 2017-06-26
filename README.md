@@ -1,5 +1,5 @@
 [![Build Status](https://secure.travis-ci.org/soldair/node-binarysearch.png)](https://github.com/pooyahatami/Algorithm-Sort-Bead/)
-# Algorithm-Sort-Bead
+# Algorithm-Sort-Bead (or gravity Sort)
 
 ## Brief about Bead Sort 
 Also known as Gravity sort, this algorithm was inspired from natural phenomenons and was designed keeping in mind objects(or beads) falling under the influence of gravity.
@@ -7,12 +7,12 @@ Also known as Gravity sort, this algorithm was inspired from natural phenomenons
 **The Idea:** Positive numbers are represented by a set of beads like those on an abacus.
 
 ```javascript
- * Bead sort algorithm !
+ * Bead sort algorithm ! (or gravity Sort)
  * Class	Sorting algorithm
  * Data structure	Array
- * Worst-case performance	О(s) comparisons, S is the sum of the input integers
- * Best-case performance	O(1) comparisons, O(1) swaps
- * Average performance	О(n) comparisons, swaps
+ * Worst-case performance	О(s) , S is the sum of the input integers
+ * Best-case performance	O(1) 
+ * Average performance	O(n1/2), In a realistic physical model that uses gravity,
  * Worst-case space complexity
  *   where n is the size of the input array.
  *   ans S S is the sum of the input integers.

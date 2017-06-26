@@ -1,0 +1,18 @@
+{
+  "name": "node-sort-bead",
+  "description": "Also known as Gravity sort, this algorithm was inspired from natural phenomenons and was designed keeping in mind objects(or beads) falling under the influence of gravity.",
+  "version": "1.0.1",
+  "repository": {
+    "url": "https://github.com/pooyahatami/Algorithm-Sort-Bead"
+  },
+  "main": "node-sort-bead.js",
+  "scripts": {
+    "test": "test-Cases/*.js"
+  },
+  "author": "Pooya Hatami <am.hatami@yahoo.com>",
+  "dependencies": {},
+  "devDependencies": {
+    "tap": "~0.4.1"
+  },
+  "license": "MIT"
+}

@@ -12,7 +12,7 @@ Also known as Gravity sort, this algorithm was inspired from natural phenomenons
  * Data structure	Array
  * Worst-case performance	О(s) , S is the sum of the input integers
  * Best-case performance	O(1) 
- * Average performance	O(n1/2), In a realistic physical model that uses gravity,
+ * Average performance	O(n^1/2), In a realistic physical model that uses gravity,
  * Worst-case space complexity
  *   where n is the size of the input array.
  *   ans S S is the sum of the input integers.

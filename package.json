@@ -1,18 +1,51 @@
 {
-  "name": "node-sort-bead",
-  "description": "Also known as Gravity sort, this algorithm was inspired from natural phenomenons and was designed keeping in mind objects(or beads) falling under the influence of gravity.",
-  "version": "1.0.1",
-  "repository": {
-    "url": "https://github.com/pooyahatami/Algorithm-Sort-Bead"
+  "_from": "node-sort-bead",
+  "_id": "node-sort-bead@1.0.1",
+  "_inBundle": false,
+  "_integrity": "sha1-kBCcZfJK81U3pJaeRiOZOpsC9Lc=",
+  "_location": "/node-sort-bead",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "node-sort-bead",
+    "name": "node-sort-bead",
+    "escapedName": "node-sort-bead",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
   },
-  "main": "node-sort-bead.js",
-  "scripts": {
-    "test": "test-Cases/*.js"
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/node-sort-bead/-/node-sort-bead-1.0.1.tgz",
+  "_shasum": "90109c65f24af35537a4969e4623993a9b02f4b7",
+  "_spec": "node-sort-bead",
+  "_where": "C:\\inetpub\\nodejs",
+  "author": {
+    "name": "Pooya Hatami",
+    "email": "am.hatami@yahoo.com"
   },
-  "author": "Pooya Hatami <am.hatami@yahoo.com>",
+  "bugs": {
+    "url": "https://github.com/pooyahatami/Algorithm-Sort-Bead/issues"
+  },
+  "bundleDependencies": false,
   "dependencies": {},
+  "deprecated": false,
+  "description": "Also known as Gravity sort, this algorithm was inspired from natural phenomenons and was designed keeping in mind objects(or beads) falling under the influence of gravity.",
   "devDependencies": {
     "tap": "~0.4.1"
   },
-  "license": "MIT"
+  "homepage": "https://github.com/pooyahatami/Algorithm-Sort-Bead#readme",
+  "license": "MIT",
+  "main": "node-sort-bead.js",
+  "name": "node-sort-bead",
+  "repository": {
+    "url": "git+https://github.com/pooyahatami/Algorithm-Sort-Bead.git"
+  },
+  "scripts": {
+    "test": "test-Cases/*.js"
+  },
+  "version": "2.0.1"
 }
